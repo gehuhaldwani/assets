@@ -1,5 +1,27 @@
 # Assets
 
+## GEHU LOGO
+
+### Color
+
+#### SVG
+
+![GEHU LOGO SVG](./gehu_logo/gehu_logo.svg)
+
+#### PNG
+
+![GEHU LOGO PNG](./gehu_logo/gehu_logo.png)
+
+### Monochrome
+
+#### Black SVG
+
+![GEHU LOGO Monochrome SVG](./gehu_logo/gehu_logo_black.svg)
+
+#### White SVG
+
+![GEHU LOGO Monochrome White SVG](./gehu_logo/gehu_logo_white.svg)
+
 ## GEHU
 
 ### Color
@@ -44,6 +66,12 @@
 
 ![GEHU Bhimtal LOGO White PNG](./gehu_btl/gehu_btl_white.png)
 
+### Monochrome
+
+#### White SVG
+
+![GEHU Bhimtal LOGO Monochrome White SVG](./gehu_btl/gehu_btl_mono.svg)
+
 ## GEHU Haldwani
 
 ### Color
@@ -65,3 +93,21 @@
 #### PNG
 
 ![GEHU Haldwani LOGO White PNG](./gehu_hld/gehu_hld_white.png)
+
+### Monochrome
+
+#### White SVG
+
+![GEHU Haldwani LOGO Monochrome White SVG](./gehu_hld/gehu_hld_mono.svg)
+
+## Flame
+
+### Color
+
+#### SVG
+
+![Flame LOGO Color SVG](./flame/flame.svg)
+
+#### PNG
+
+![Flame LOGO Color PNG](./flame/flame.png)
